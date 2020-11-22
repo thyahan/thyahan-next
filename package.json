@@ -2,6 +2,7 @@
   "name": "thyahan",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,5 +12,20 @@
     "next": "10.0.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Yutthana Yahan",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thyahan/thyahan-next.git"
+  },
+  "keywords": [
+    "thyahan"
+  ],
+  "bugs": {
+    "url": "https://github.com/thyahan/thyahan-next/issues"
+  },
+  "homepage": "https://github.com/thyahan/thyahan-next#readme"
 }
